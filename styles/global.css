@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner-image{
+    background-image: url(/img/rj.jpg);
+    background-size: cover;
+}
+#screen{
+    font-size: 60px;
+    padding: 12px;
+}
