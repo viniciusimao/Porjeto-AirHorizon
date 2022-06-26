@@ -1,13 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Kanit', sans-serif;
 }
 .banner-image{
     background-image: url(/img/rj.jpg);
     background-size: cover;
-}
-#screen{
-    font-size: 60px;
-    padding: 12px;
 }
