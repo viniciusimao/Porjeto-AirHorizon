@@ -8,3 +8,7 @@ body{
     background-image: url(/img/rj.jpg);
     background-size: cover;
 }
+footer a{
+    text-decoration: none;
+    font-size: 'Kanit', sans-serif;
+}
