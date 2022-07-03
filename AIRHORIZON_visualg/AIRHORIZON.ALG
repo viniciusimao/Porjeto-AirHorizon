@@ -19,12 +19,12 @@ enquanto op <> "4" faca
               Escreval (" (3) Consultar Destino")
               Escreval (" (4) Sair ")
               Escreval ("")
-              Escreva  (" OpÁ„o: ")
+              Escreva  (" Op√ß√£o: ")
                        leia (op)
                         Se op = "1" entao
                             limpaTela
                                Se f = 3 entao
-                                   EscrevaL (" N„o È mais possivel fazer Consulta")
+                                   EscrevaL (" N√£o √© mais possivel fazer Consulta")
                                    Escreval ("")
                                    Escreval ("")
                                         Senao
@@ -96,7 +96,7 @@ inicio
                      FimSe
                    FimPara
                    Se c = 0 entao
-                      EscrevaL ("Cliente n„o Cadastrado!")
+                      EscrevaL ("Cliente n√£o Cadastrado!")
                    FimSe
                    Voltar_Menu ()
                    LimpaTela
@@ -121,7 +121,7 @@ inicio
                      FimSe
                    FimPara
                    Se g = 0 entao
-                      EscrevaL ("Cliente n„o Cadastrado!")
+                      EscrevaL ("Destino n√£o Cadastrado!")
                    FimSe
                    Voltar_Menu ()
                    LimpaTela
