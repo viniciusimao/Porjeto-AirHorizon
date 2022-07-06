@@ -1,6 +1,6 @@
 Projeto da page AirHorizon agencia de Turismos desenvolvido na RecodePro
 
-Utilisando:
+Utilizando:
 
 .Html:5
 
